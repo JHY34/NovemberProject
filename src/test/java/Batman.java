@@ -5,5 +5,6 @@ public class Batman {
         // more changes from the gotham branch
 
         // added new line and committed
+        // added another line and committed
     }
 }
