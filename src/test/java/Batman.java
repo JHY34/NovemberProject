@@ -3,5 +3,7 @@ public class Batman {
         System.out.println("Batman class");
         // this updates from the gotham branch
         // more changes from the gotham branch
+
+        // added new line and committed
     }
 }
